@@ -59,9 +59,9 @@ dashboardCall()
 
                 {this.state.newsArray.map(newsData =>
     <ul>    
-         <h2 className="blog-title" key={newsData.title}>
+         <h1 className="blog-title" key={newsData.title}>
          {newsData.title}      
-      </h2>     
+      </h1>     
       <div>    
       <p key={newsData.metadata.date}>Published: {newsData.metadata.date} </p>
       <div key={newsData.metadata.description}>    

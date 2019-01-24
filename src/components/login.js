@@ -73,7 +73,7 @@ class login extends Component {
         return (
 					<div>
             <div><Link to="/"><button type="submit" className="btn btn-success" >
-            back
+            Back
           </button></Link> </div>
           <div className="wrapper fadeInDown">
   <div id="formContent">
