@@ -1,0 +1,27 @@
+
+
+.box-height
+{
+    height: 20px
+}
+
+.margin-up
+{
+  margin-top: 38px
+}
+
+.ql-container
+{
+  height: 100px;
+  
+  
+}
+
+#news-title
+{
+  width: 98%;
+  padding: 10px;
+  display:block;
+  border-radius:10px;
+  border:1px solid #ccc;
+}

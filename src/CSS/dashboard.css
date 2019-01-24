@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    /* display: inline-block; */
+  }
+  #ul_top_hypers li {
+    display: inline;
+  }
+
+  .btn
+  {
+     
+      background-color: #3583aa; 
+    color: white;     
+      
+  }
+  .btn:hover {
+    background: #80c9ee;
+    color: rgb(59, 57, 57); 
+  }
+
+  .text-center
+  {
+    text-align: center;
+    margin-bottom: 10em
+  }
