@@ -1,0 +1,47 @@
+{
+    "bucket": {
+        "_id": "5c3f6c46081d3062a56ea573",
+        "slug": "react-pwa",
+        "title": "react-pwa",
+        "object_types": [
+            {
+                "title": "admins",
+                "slug": "admins",
+                "singular": "admin",
+                "metafields": [],
+                "options": {
+                    "slug_field": 1,
+                    "content_editor": 1
+                },
+                "preview_link": "",
+                "priority_locale": null
+            },
+            {
+                "title": "news",
+                "slug": "news",
+                "singular": "news",
+                "metafields": [],
+                "options": {
+                    "slug_field": 1,
+                    "content_editor": 1
+                },
+                "preview_link": "",
+                "priority_locale": null
+            },
+            {
+                "title": "comments",
+                "slug": "comments",
+                "singular": "comment",
+                "metafields": [],
+                "options": {
+                    "slug_field": 1,
+                    "content_editor": 1
+                },
+                "preview_link": "",
+                "priority_locale": null
+            }
+        ],
+        "objects": [],
+        "media": []
+    }
+}
