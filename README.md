@@ -1,4 +1,20 @@
+# React-PWA
+
+![Screenshot](https://cosmic-s3.imgix.net/1ed0e610-226c-11e9-a6c1-df07cd8ae9cb-home-page.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Get Started
+
+## Running server:
+
+```
+git clone https://github.com/a9kitkumar/cosmicjs-pwa
+cd cosmicjs-pwa
+npm install
+npm run build
+serve -s build
+```
 
 ## Available Scripts
 
