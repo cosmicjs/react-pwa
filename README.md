@@ -13,6 +13,7 @@ git clone https://github.com/a9kitkumar/cosmicjs-pwa
 cd cosmicjs-pwa
 npm install
 npm run build
+npm install -g serve
 serve -s build
 ```
 
