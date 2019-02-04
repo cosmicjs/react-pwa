@@ -1,11 +1,9 @@
 const config = {
-    
-bucket_name: "react-pwa",
-bucket_slug: "react-pwa",
-bucket_id: "5c3f6c46081d3062a56ea573",
-read_key: "d12casi186oW1ZTQcJb2GaCXAeVukJgUPTPT13tAzfpssSWFWU",
-write_key: "eDwoad693AAsC6ppiIE2IWKAlG0n8xPYFpP1QrSCrp0MZ6Lis7",
-url: "https://api.cosmicjs.com/v1/"
-
+  bucket_name: process.env.REACT_APP_BUCKET_SLUG || "996304b0-28d1-11e9-9e3f-b139f5a50259",
+  bucket_slug: process.env.REACT_APP_BUCKET_SLUG || "996304b0-28d1-11e9-9e3f-b139f5a50259",
+  bucket_id: process.env.REACT_APP_BUCKET_ID || "",
+  read_key: process.env.REACT_APP_BUCKET_READ_KEY || "",
+  write_key: process.env.REACT_APP_BUCKET_WRITE_KEY || "",
+  url: "https://api.cosmicjs.com/v1/"
 }
 export default config;
