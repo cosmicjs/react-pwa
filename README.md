@@ -1,4 +1,4 @@
-# React-PWA
+# React PWA with Authentication
 
 ![Screenshot](https://cosmic-s3.imgix.net/1ed0e610-226c-11e9-a6c1-df07cd8ae9cb-home-page.png)
 
