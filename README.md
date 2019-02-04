@@ -1,8 +1,9 @@
 # React PWA with Authentication
 
 ![Screenshot](https://cosmic-s3.imgix.net/1ed0e610-226c-11e9-a6c1-df07cd8ae9cb-home-page.png)
+### [View Demo](https://cosmicjs.com/apps/react-pwa-with-authentication)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Read how this app was built](https://cosmicjs.com/articles/how-to-build-a-pwa-in-reactjs-and-cosmic-js-jraynd4c). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Get Started
 
